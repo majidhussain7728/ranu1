@@ -12,4 +12,9 @@ rgs={
         name = "rg-ranu3"
         location = "Australia East"
     }
+
+       rg6={
+        name = "rg-ranu6"
+        location = "Australia East"
+    }
 }
